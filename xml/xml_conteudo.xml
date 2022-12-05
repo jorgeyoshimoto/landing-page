@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+	<conteudo>
+
+        <introducaott>
+            Seja bem-vindo ao site do SGRI!
+        </introducaott>  
+
+        <introducaocorpo>
+            Aqui você poderá conhecer um pouco sobre o que é o SGRI, nosso projeto e a equipe que está por trás dele.
+        </introducaocorpo>  
+
+        <sobrett>
+           SOBRE:
+        </sobrett> 
+
+        <sobrecorpo>
+            O SGRI é um sistema de gerenciamento de problemas relacionados a infraestrutura em geral da cidade de Registro. Com o aplicativo do SGRI, o cidadão poderá mandar reclamações sobre problemas que encontrar na cidade, e a prefeitura terá acesso a um sistema que irá gerenciá-los e manda-los para as entidades responsáveis.
+        </sobrecorpo> 
+
+        <problematt>
+           PROBLEMA
+        </problematt> 
+
+        <problemacorpo>
+            Independentemente do tamanho das cidades, todas possuem problemas urbanos a serem resolvidos, desde um buraco na rua até problemas relacionados a iluminação, falta de água, entre outros.
+				  Por isso, muitas das prefeituras não conseguem ter o controle sobre esses problemas, como localizar todos eles e gerenciá-los, acarretando muitas vezes em seu não solucionamento.
+				  E o grande problema é que os cidadãos não conseguem levar suas reclamações para a prefeitura de uma maneira fácil, por conta da falta de um canal de comunicação prático entre o órgão público e o cidadão.
+				  Sem um canal de reclamações prático e acessível, muitas pessoas não conseguem ter os seus problemas atendidos, e muitas vezes precisam partir para outros meios, como as redes sociais. O problema é que por não serem um meio de comunicação oficial e para essa função especificamente, a prefeitura não consegue receber todos esses problemas e atendê-los.
+        </problemacorpo> 
+
+        <tituloex>
+           EXEMPLO DE PROBLEMAS
+        </tituloex> 
+
+        <titulopro>
+           PROJETO
+        </titulopro> 
+
+        <textpro>
+           O Projeto consiste em organizar e gerenciar os problemas de Registro, por meio de um aplicativo(utilizado pelos cidadões) e um site(ultilizados por uma equipe da prefeitura), que ultilizam a geolocalização como tecnologia.
+        </textpro> 
+
+        <pro1>
+           Tela pricipal do sitema WEB onde usuários permitidos podem gerenciar e verificar os problemas por meio de um mapa.
+        </pro1> 
+        
+        <pro2>
+           Tela onde serão mostrados todos os problemas por meio de uma tabela, onde usuários permitidos podem gerenciar os problemas, de varias formas como: editar, excluir e alterar o andamanto do problema.
+        </pro2> 
+
+        <pro3>
+         Tela pricipal do sitema Mobile onde usuários verificar os problemas por meio de um mapa.
+        </pro3> 
+
+        <pro4>
+           Tela onde o usuário pode fazer a denúncia de seu problema.
+        </pro4> 
+
+        <equipett>
+           INTEGRANTES
+        </equipett>
+
+        <edun>
+           Eduardo Ken
+        </edun>
+
+        <gabrieln>
+           Gabriel Henrique
+        </gabrieln>
+
+        <henriquen>
+           Henrique Duquinha
+        </henriquen>
+
+        <jorgen>
+           Jorge Yoshimoto
+        </jorgen>
+
+       <postagem codigo="1">
+        <titulo1>SAIBA MAIS</titulo1>
+        <titulo2>PROBLEMA 1 - ÁRVORE CAÍDA</titulo2>
+        <corpo>Não é surpresa que várias árvores caem ao longo de um ano, seja por falta de cuidado, 
+        seja por chuvas fortes, enfim, são inúmeros motivos e também diversos prejuízos. Por isso, nós do SGRI queremos auxiliar além 
+        da prefeitura, o cidadão em si. Assim evitando acidentes como o da imagem ao lado.
+        </corpo>
+        <imagem_1 >img2.jpg</imagem_1>
+    </postagem>
+    <postagem codigo="2">
+        <titulo1>SAIBA MAIS</titulo1>
+        <titulo2>PROBLEMA 2 - BURACO NA RUA</titulo2>
+        <corpo>Seja devido a problemas com a chuva, tráfego intenso ou manutenção na rede de esgoto, o aparecimento de buracos na rua estão cada vez mais frequentes,
+         especialmente em cidades desenvolvidas, e trazem diversos transtornos tanto para motoristas quanto pedestres. Por isso, nós do SGRI queremos auxiliar além 
+        da prefeitura, o cidadão em si. Assim evitando mais problemas como o da imagem ao lado.
+        </corpo>
+        <imagem_1 fileName="img_b.jpg">img3.jpg</imagem_1>
+    </postagem>
+    <postagem codigo="3">
+        <titulo1>SAIBA MAIS</titulo1>
+        <titulo2>PPROBLEMA 3 - PROBLEMA DE SINALIZAÇÃO</titulo2>
+        <corpo>A sinalização, principalmente a horizontal (faixas centrais e laterais), acompanha o usuário desde o momento em que ele entra na rodovia até quando sai dela. 
+        Elas trazem informações parA informar sobre as condições da via e alertar sobre proibições, restrições, obrigações no uso do local, dentre outras funções, tudo para tentar evitar e amenizar o índice de acidentes.
+        Por isso, nós do SGRI queremos auxiliar além da prefeitura, o cidadão em si. Assim evitando mais problemas como o da imagem ao lado.
+        </corpo>
+        <imagem_1 fileName="img_c.jpg">img7.jpg</imagem_1>
+    </postagem>
+    <postagem codigo="4">
+        <titulo1>SAIBA MAIS</titulo1>
+        <titulo2>PROBLEMA 4 - FALTA DE SANEAMENTO BÁSICO</titulo2>
+        <corpo>O saneamento básico é importante para a qualidade de vida e o desenvolvimento da sociedade, De modo geral, o saneamento básico têm por objetivo preservar ou melhorar as condições do meio ambiente para prevenir doenças e promover a saúde da população. 
+        E as consequências da ausência desse serviço são graves de diversos modos. Por isso, nós do SGRI queremos auxiliar além da prefeitura, o cidadão em si. Assim evitando mais problemas como o da imagem ao lado.
+        </corpo>
+        <imagem_1 fileName="img_c.jpg">img8.jpg</imagem_1>
+    </postagem>
+	</conteudo>
